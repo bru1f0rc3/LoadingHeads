@@ -1,4 +1,3 @@
 # ConsoleApp2
-Loading skin heads from the 
+Loading skin heads from the subsection to compile a tier list
 + [https://skin.vimeworld.com]
-subsection to compile a tier list
