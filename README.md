@@ -1,2 +1,2 @@
 # ConsoleApp2
-Loading skin heads from the &a[skin.vimeworld.com] subsection to compile a tier list
+Loading skin heads from the <span style="color:red">[skin.vimeworld.com]</span> subsection to compile a tier list
