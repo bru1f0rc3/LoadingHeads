@@ -1,2 +1,5 @@
 # ConsoleApp2
-Loading skin heads from the <span style="color:red">[skin.vimeworld.com]</span> subsection to compile a tier list
+Loading skin heads from the ```diff
++ this text is highlighted in green
+- this text is highlighted in red
+``` subsection to compile a tier list
