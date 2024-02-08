@@ -36,7 +36,6 @@ namespace ConsoleApp2
         static void DownloadHeadImage(string username)
         {
             var heads = $"https://skin.vimeworld.ru/helm/3d/{username}.png";
-
             try
             {
                 Console.WriteLine($"Загрузка изображения для пользователя {username}...");
